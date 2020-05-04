@@ -10,7 +10,7 @@ phases:
   build:
     commands:
       - echo Testing...
-  post-build:
+  post_build:
     commands:
       - echo Post-Build..
 artifacts:
